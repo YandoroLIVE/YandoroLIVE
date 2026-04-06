@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey 👋
 
-<!--
-**YandoroLIVE/YandoroLIVE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Oliver (Yano Kurogawa), a Technical Game Designer from Germany.
 
-Here are some ideas to get you started:
+I recently finished my studies and now focus on building clean, responsive gameplay systems — from fast-paced FPS mechanics to modular ability systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into playable prototypes and polishing them until they *feel right*.
+
+## What I do
+- Gameplay Programming (Unreal Engine 5 & Unity)
+- Systems Design & Prototyping
+- Multiplayer Features
+- VFX & Game Feel
+
+## Projects
+- **Meatgrid** – Cyberpunk arena FPS with focus on movement & game feel  
+- **Crimson Curse** – Metroidvania with modular upgrade systems  
+- **DoYouFeelSafe** – Horror game (AI, VFX, Team Lead)
+
+## Work
+Open for:
+- Freelance work  
+- Collaborations  
+- Junior / Entry-level positions  
+
+## Fun Stuff
+- ☕ Had a full coffee hyperfixation phase — I make a pretty solid espresso  
+- 🎮 Big fan of fast, satisfying gameplay  
+- 🏋️ Currently getting into fitness  
+
+## Contact
+- Instagram: @yano_kurogawa
